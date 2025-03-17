@@ -1,0 +1,2 @@
+[console_scripts]
+ics-generator = ics_generator.cli:main

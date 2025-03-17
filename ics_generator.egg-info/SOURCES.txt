@@ -1,0 +1,11 @@
+README.md
+setup.py
+ics_generator/__init__.py
+ics_generator/cli.py
+ics_generator/generator.py
+ics_generator.egg-info/PKG-INFO
+ics_generator.egg-info/SOURCES.txt
+ics_generator.egg-info/dependency_links.txt
+ics_generator.egg-info/entry_points.txt
+ics_generator.egg-info/requires.txt
+ics_generator.egg-info/top_level.txt
