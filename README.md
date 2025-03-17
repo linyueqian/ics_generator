@@ -15,7 +15,6 @@ A command-line tool that generates ICS calendar files using natural language pro
 1. Clone the repository:
 ```bash
 git clone https://github.com/linyueqian/ics_generator.git
-cd ics_generator
 ```
 
 2. Install the package:
